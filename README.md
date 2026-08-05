@@ -22,7 +22,7 @@ git clone git@github.com:HubYura/agent-development-guide.git
 git clone https://github.com/HubYura/agent-development-guide.git
 ```
 
-У основний CLAUDE.md на початку вставити 
+У основний CLAUDE.md/AGENTS.md на початку вставити 
 ```text
 Інструкції для AI-агентів і людей, які змінюють цей репозиторій. Короткий
 операційний зріз; повні правила — у `.docs/agent-development-guide/`.
